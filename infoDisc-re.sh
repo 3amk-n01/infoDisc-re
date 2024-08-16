@@ -29,7 +29,7 @@ logo(){
 
 
   
- This Tool Depend on [ katana / httpx ] and [ SecretFinder.py / Dora.py ] make sure you insall them befor use this script.
+ This Tool Depend on [ katana / httpx ] and [ SecretFinder.py / Dora.py ] make sure you install them befor use this script.
  	
  	[+]	https://github.com/projectdiscovery/katana
  	[+]	https://github.com/projectdiscovery/httpx
